@@ -1,4 +1,5 @@
 # 🌸 Sakura-AI-Monitor-2
+This project demonstrates how network traffic can be collected, analyzed, and visualized through an interactive dashboard, helping users understand packet monitoring, threat detection, and cybersecurity workflows.
 
 ## 📌 Project Overview
 
