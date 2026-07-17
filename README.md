@@ -7,7 +7,7 @@ Sakura AI is a Python and Flask-based network traffic monitoring dashboard desig
 
 The project combines Flask back-end processing with an interactive front-end dashboard to demonstrate concepts commonly found in Security Operations Center (SOC) environments. Through dynamic visualizations and telemetry displays, Sakura AI provides an educational platform for exploring network monitoring, packet analysis, and secure application development.
 
-> **Project Status:** 🚧 Development Paused (Application Security Case Study)
+> **Project Status:** 🚧 Development Paused 
 
 ---
 
